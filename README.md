@@ -1,6 +1,6 @@
 # Web-Crawler-Tool
 
-**Web Scraping** - for Wellcome and Panknshop
+**Web Scraping** - for Wellcome and Parknshop
 
 **Database** - connection for postgresSQL(ngrok)
 
